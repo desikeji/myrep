@@ -1,0 +1,58 @@
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.4.3
+--------------------
+GitHub Token: gho_**********
+GitHub Gist: 58f32b6e29be984d700e9a2d1aeae521
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindings.json
+  settings.json > settings.json
+  redhat.optin.json > globalStorage\vscode-redhat-telemetry\redhat.optin.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  arm v1.7.4
+  better-cpp-syntax v1.17.2
+  Bookmarks v13.3.1
+  cmake v0.0.17
+  cmake-tools v1.17.17
+  code-settings-sync v3.4.3
+  copy-relative-path-and-line-numbers v0.3.1
+  cpptools v1.10.8
+  cpptools-extension-pack v1.3.0
+  cpptools-themes v2.0.0
+  doxdocgen v1.4.0
+  EnglishChineseDictionary v1.1.0
+  gc-excelviewer v4.2.59
+  inifmt v0.1.5
+  jupyter v2021.11.1001550889
+  jupyter-renderers v1.0.4
+  meson v1.3.0
+  python v2022.4.1
+  rainbow-csv v2.4.0
+  remote-containers v0.209.6
+  remote-ssh v0.70.0
+  remote-wsl v0.63.13
+  rtf v2.6.1
+  unsaved-files-vscode v2.1.3
+  verilogformat v1.0.1
+  veriloghdl v1.7.0
+  vetur v0.37.3
+  vscode-drawio v1.6.6
+  vscode-edit-csv v0.8.3
+  vscode-inline-bookmarks v0.1.0
+  vscode-language-pack-zh-hans v1.63.3
+  vscode-paste-image v1.0.4
+  vscode-pylance v2022.5.1
+  vscode-xml v0.24.0
+--------------------
+Done.
